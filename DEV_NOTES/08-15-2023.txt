@@ -29,3 +29,7 @@
     - Kept Tailwind imports
 
 - Currently have a blank webpage with the default white background
+
+- Added an h1 tag with site title to the page.tsx
+
+- Changed the webpage title in layout.tsx
