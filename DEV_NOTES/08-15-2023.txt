@@ -1,0 +1,31 @@
+- Created a new folder for the project
+
+- Opened new folder in VS Code
+
+- Opened the terminal
+
+- Ran the following terminal command:
+  - "npx create-next-app@latest ./"
+    - The "./" at the end of the command specifies that the new Next.js application will be created within the current directory
+
+  - Selected "Yes" for the following create-next-app options:
+    - TypeScript
+    - ESLint
+    - Tailwind CSS 
+    - App Router
+
+- Published new project to GitHub
+
+- Created DEV_NOTES folder
+
+- Created .env file
+
+- Added new .env file to .gitignore file
+
+- Cleared out create-next-app's default markup and styling
+  - Deleted default "page.tsx" markup
+  - Deleted default "layout.tsx" markup
+  - Deleted default "globals.css" styles
+    - Kept Tailwind imports
+
+- Currently have a blank webpage with the default white background
